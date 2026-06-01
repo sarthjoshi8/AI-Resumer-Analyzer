@@ -65,4 +65,5 @@ docker run -p 8000:8000 -e GEMINI_API_KEY=your_key resume-analyzer
 | GET | `/api/health` | Health check |
 
 ## 📄 License
-- Sarth Hemant Joshi
+MIT — Sarth Hemant Joshi
+
